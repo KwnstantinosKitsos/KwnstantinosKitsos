@@ -3,8 +3,6 @@
 
 - I’m currently working on **SHOP-react**
 
-- How to reach me **ntinoskitsios1@gmail.com**
-
 <p align="left">
 </p>
 
