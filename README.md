@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kwstas</h1>
 <h3 align="center">A passionate frontend developer from Greece. Having recently completed my studies, I am now focused on crafting modern web experiences and expanding my expertise in the React ecosystem.</h3>
 
-- 🔭 I’m currently working on **SHOP-react**
+- I’m currently working on **SHOP-react**
 
-- 📫 How to reach me **ntinoskitsios1@gmail.com**
+- How to reach me **ntinoskitsios1@gmail.com**
 
 <p align="left">
 </p>
